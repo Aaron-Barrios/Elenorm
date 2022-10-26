@@ -23,6 +23,10 @@ NormieClass.h
 NormieClass.cpp 
 randMaker.h
 
+Compiling just the mainP3Driver.cpp (ex: g++ -std=c++11 mainP3Driver.cpp) will compile them all, as I've #include 'd all the other files you'll need from this list
+
+
+
 - Please email me at aarondbarrios@gmail.com if you are unable to run. 
 
 - I was given the map classes and drivers by my class instructors, and made the rest myself. 
